@@ -1,4 +1,5 @@
 # LogiTalk 
+-- My first big program 
 
 # About program 
 -- It's program for communication between people,
