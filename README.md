@@ -7,7 +7,7 @@ This program have a simple interface.
 In this project, i used Python, sockets, and CustomTkinter.
 
 
--- Here is a code example from this project
+Here is a code example from this project
 ```
 def change_theme(self, value):
 
