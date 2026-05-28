@@ -1,9 +1,9 @@
 # LogiTalk 
 
-# about program 
--- It's program for communication between people 
--- This program have a simple interface
--- In this project, i used Python, sockets, and CustomTkinter 
+# About program 
+-- It's program for communication between people,
+-- This program have a simple interface,
+-- In this project, i used Python, sockets, and CustomTkinter.
 
 
 -- Here is a code example from this project
